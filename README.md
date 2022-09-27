@@ -14,6 +14,8 @@ The dataset comprises information on the following parameters
 - products
 - departments
 
+### Tools
+
 For this project, the following python libraries were used:
 
 - pandas 
@@ -22,3 +24,5 @@ For this project, the following python libraries were used:
 - matplotlib.pyplot 
 - seaborn
 - scipy
+
+
