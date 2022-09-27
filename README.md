@@ -16,5 +16,9 @@ The dataset comprises information on the following parameters
 
 For this project, the following python libraries were used:
 
-- pandas - data analysis
-- seaborn - visualization
+- pandas 
+- numpy 
+- os
+- matplotlib.pyplot as plt
+- seaborn
+- scipy
