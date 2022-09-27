@@ -13,3 +13,8 @@ The dataset comprises information on the following parameters
 - orders
 - products
 - departments
+
+For this project, the following python libraries were used:
+
+- pandas - data analysis
+- seaborn - visualization
