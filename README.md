@@ -19,6 +19,6 @@ For this project, the following python libraries were used:
 - pandas 
 - numpy 
 - os
-- matplotlib.pyplot as plt
+- matplotlib.pyplot 
 - seaborn
 - scipy
